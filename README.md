@@ -1,5 +1,5 @@
 # OnlineHospitalManagementSystem
-There are three modules in the Online Hospital Management System.
+There are three modules in the Online Hospital Management System. <br />
 1)Patients
 2)Doctor
 3)Admin
